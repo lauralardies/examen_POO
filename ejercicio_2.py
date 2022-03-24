@@ -6,3 +6,6 @@ class Libro:
         self.titulo = "Las crónicas de Narnia" # Los libros tienen un título
         self.autor = "C.S. Lewis" # Los libros tienen un autor
         self.idioma = "Inglés" # Los libros están en un idioma
+        self.tipo = "Novela" # Los libros pueden ser de muchos tipos como novela, cómic, etc.
+    
+    # En un libro se puede leer, escribir, abir, cerrar, pero esto no describe al libro en sí y por ello no vamos a desarrollar estas acciones.
