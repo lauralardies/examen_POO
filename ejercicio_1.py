@@ -9,3 +9,4 @@ class Libro:
         self.tipo = "Novela" # Los libros pueden ser de muchos tipos como novela, cómic, etc.
     
     # En un libro se puede leer, escribir, abir, cerrar, pero esto no describe al libro en sí y por ello no vamos a desarrollar estas acciones.
+    # ¿Cómo implementamos esto en Python? Muy sencillo, nos puede servir para un dataset o una biblioteca, donde se almacenan, pongamos por ejemplo "Los Libros más famosos del siglo XXI"
